@@ -26,6 +26,10 @@
 
 See [contributing guide](CONTRIBUTING.md).
 
+## Release Note Testing
+
+- Add multiple labels to check if the automated release notes are generated as expected.
+
 ## Code of Conduct
 
 This project has adopted the [Amazon Open Source Code of Conduct](CODE_OF_CONDUCT.md). For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq), or contact [opensource-codeofconduct@amazon.com](mailto:opensource-codeofconduct@amazon.com) with any additional questions or comments.
